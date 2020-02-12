@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1574896829 source:c:\users\luis\downloads\easomfunction\easomfunction\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1574896829 
+
+1575651658 source:c:\users\leonn\desktop\easomfunction\easomfunction\main.cpp
+	"Funcoes.h"
+	<time.h>
+
+1575651675 
+
+1575651675 c:\users\leonn\desktop\easomfunction\easomfunction\funcoes.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<iomanip>
+
+1576144680 source:/home/luis/Área de Trabalho/EasomFunction/main.cpp
+	"Funcoes.h"
+
+1576145324 /home/luis/Área de Trabalho/EasomFunction/Funcoes.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<locale.h>
+	<iomanip>
+	<time.h>
+
