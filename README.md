@@ -1,2 +1,2 @@
 # Particle-Swarm-Optimization
-Algoritmos de Otimização vai enxame de partículas.
+Algoritmos de Otimização via enxame de partículas.
